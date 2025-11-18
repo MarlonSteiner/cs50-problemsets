@@ -1,0 +1,21 @@
+10 HTML tags used
+1.<div></div>
+2.<section></section>
+3.<ul></ul>
+4.<li></li>
+5.<nav></nav>
+6.<p></p>
+7.<h1></h1>
+8.<h2></h2>
+9.<footer></footer>
+10.<meta></meta>
+
+5 CSS properties used
+1.display: flex;
+2.justify-content: center;
+3.align-items: center;
+4.height: 80vh;
+5.font-size: 4rem;
+
+a brief (one-sentence) description of how you chose to use JavaScript and Bootstrap.
+I used Javascript for an alert when pressiong the title and bootstrap to configure the layout depending on the screen size.
