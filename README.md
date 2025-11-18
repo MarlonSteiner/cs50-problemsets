@@ -1,4 +1,4 @@
-# CS50x Problem Sets 
+#  🎓 CS50x Problem Sets 
 
 My solutions to Harvard's CS50 Introduction to Computer Science 2025 worth mentioning.
 
